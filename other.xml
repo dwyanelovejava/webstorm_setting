@@ -1,0 +1,15 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://121.43.117.44/svn/ProjectTpl" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://121.43.117.44/svn/ProjectTpl" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="E:\Program Files\SlikSvn\bin\svn.exe" />
+  </component>
+</application>
